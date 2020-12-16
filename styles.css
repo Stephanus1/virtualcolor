@@ -616,6 +616,7 @@ VIRTUAL COLOR
 .feature {
     padding-top: 80px;
 }
+
 .feature-list {
     display: flex;
     flex-direction: column;
